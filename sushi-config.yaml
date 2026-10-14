@@ -85,7 +85,7 @@ parameters:
     - https://tx.hl7.lt/fhir/ValueSet/icd-o-3
     - http://hl7.eu/fhir/laboratory/StructureDefinition/Observation-eu-lab
     - http://hl7.eu/fhir/laboratory/ValueSet/lab-specimenContainer-eu-lab
-    - http://hl7.eu/fhir/laboratory/ValueSet/lab-specimenType-eu-lab 
+    - http://hl7.eu/fhir/laboratory/ValueSet/lab-specimenType-eu-lab
     - https://tx.hl7.lt/fhir/ValueSet/specimen-identifier
     - https://tx.hl7.lt/fhir/CodeSystem/tumor-component-lt-lab
     - https://tx.hl7.lt/fhir/ValueSet/periprostatic-fat-invasion
